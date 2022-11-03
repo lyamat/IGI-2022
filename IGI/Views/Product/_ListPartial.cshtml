@@ -1,0 +1,11 @@
+﻿@model ListViewModel<PCPart>
+<div class="container">
+    <div class="row">
+        @foreach (var item in Model)
+        {
+            <partial name="_ListItemPartial" model="@item" />
+        }
+    </div>
+</div>
+
+

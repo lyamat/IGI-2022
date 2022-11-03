@@ -1,0 +1,12 @@
+C:\Users\Ilya\Desktop\IGI-2022\IGI.Blazor\Shared\bin\Debug\net5.0\IGI.Blazor.Shared.deps.json
+C:\Users\Ilya\Desktop\IGI-2022\IGI.Blazor\Shared\bin\Debug\net5.0\IGI.Blazor.Shared.dll
+C:\Users\Ilya\Desktop\IGI-2022\IGI.Blazor\Shared\bin\Debug\net5.0\IGI.Blazor.Shared.pdb
+C:\Users\Ilya\Desktop\IGI-2022\IGI.Blazor\Shared\obj\Debug\net5.0\IGI.Blazor.Shared.csproj.AssemblyReference.cache
+C:\Users\Ilya\Desktop\IGI-2022\IGI.Blazor\Shared\obj\Debug\net5.0\IGI.Blazor.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ilya\Desktop\IGI-2022\IGI.Blazor\Shared\obj\Debug\net5.0\IGI.Blazor.Shared.AssemblyInfoInputs.cache
+C:\Users\Ilya\Desktop\IGI-2022\IGI.Blazor\Shared\obj\Debug\net5.0\IGI.Blazor.Shared.AssemblyInfo.cs
+C:\Users\Ilya\Desktop\IGI-2022\IGI.Blazor\Shared\obj\Debug\net5.0\IGI.Blazor.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Ilya\Desktop\IGI-2022\IGI.Blazor\Shared\obj\Debug\net5.0\IGI.Blazor.Shared.dll
+C:\Users\Ilya\Desktop\IGI-2022\IGI.Blazor\Shared\obj\Debug\net5.0\refint\IGI.Blazor.Shared.dll
+C:\Users\Ilya\Desktop\IGI-2022\IGI.Blazor\Shared\obj\Debug\net5.0\IGI.Blazor.Shared.pdb
+C:\Users\Ilya\Desktop\IGI-2022\IGI.Blazor\Shared\obj\Debug\net5.0\ref\IGI.Blazor.Shared.dll
